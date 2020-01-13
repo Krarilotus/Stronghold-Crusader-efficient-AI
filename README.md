@@ -1,5 +1,5 @@
 # Stronghold-Crusader-efficient-AI
-this repo consists of the efficient AI overhault for the game Stronghold Crusader
+tldr: 8 more efficient and consistant castles for all AI characters in the game Stronghold Crusader balanced for 2k startgold and aggressive aic
 
 This project aims for creating a complete castle set for all 16 characters found in the vanilla game. The so created castles shall be compativble with the vanilla base game but also compatible with Krarilotus-aggressiveAI which is a modificiation of the base characteristic for every character of the game.
 The goals for the castle designs are:
@@ -50,7 +50,10 @@ Goal here is, to have a castle fitting for each kind of map space limitation pos
 --------------------------------------------------------------------------------------------------------
 Current project stage: Prototyping.
 
-You can find the newest aggressive aic made by Krarilotus in the repository
-Here is the link to the google drive for documentation of the buildorder:
+You can find the newest aggressive aic made by Krarilotus in the repository.
+
+The buildorder documentation can be found here:
+
 https://drive.google.com/file/d/13cHmkyjpywZD7oydFVsDScVvBXqjFc_R/view?usp=sharing
-This is not up to date, as we will update the buildorders and documentation after the prototyping has been finished.
+
+This is not up to date, as we will update the buildorders and documentation for each AI after the prototyping has been finished.
