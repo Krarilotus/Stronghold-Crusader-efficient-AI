@@ -18,38 +18,36 @@ After creating a base concept idea for a castle for each character, we perfect t
 Prototypes completion right now:
 
 finished:
-rat
+- rat
 
 almost finished:
-snake
-pig
-frederick
-emir
-marshal
-wazir
+- snake
+- pig
+- frederick
+- emir
+- marshal
+- wazir
 
 concept finished:
-wolf
-saladin
-caliph
-richard
-sultan
+- wolf
+- saladin
+- caliph
+- richard
+- sultan
 
 in design:
-nizar
-phillip
+- nizar
+- phillip
 
 still missing:
-sheriff
-abbot
+- sheriff
+- abbot
 
 # Stage 2: Diversification
 In this stage, we will create 7 more castles for each AI, that have the same buildorder and the same amount of buildsteps.
 Goal here is, to have a castle fitting for each kind of map space limitation possible. That way the characters will more likely build their essential economical buildings like market, granary, and troop production buildings, even if the terrain is narrow and tight.
 
-
-
-
+--------------------------------------------------------------------------------------------------------
 Current project stage: Prototyping.
 
 You can find the newest aggressive aic made by Krarilotus in the repository
