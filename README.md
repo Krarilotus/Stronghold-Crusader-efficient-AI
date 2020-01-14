@@ -52,6 +52,8 @@ Current project stage: Prototyping.
 
 You can find the newest aggressive aic made by Krarilotus in the repository.
 
+You can also find 15 maps in the testmaps folder, that are good for testing any aiv's in AI vs AI matches. Keep in mind, that not all AIV's always have to fit all spots, but the AI's should mainly be functional anyways. Green Heaven unlocked is only playable in the Extreme version of the game.
+
 The buildorder documentation can be found here:
 
 https://drive.google.com/file/d/13cHmkyjpywZD7oydFVsDScVvBXqjFc_R/view?usp=sharing
