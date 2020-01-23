@@ -34,14 +34,12 @@ concept finished:
 - caliph
 - richard
 - sultan
+- phillip
 
 in design:
 - nizar
-- phillip
-
-still missing:
-- sheriff
 - abbot
+- sheriff
 
 # Stage 2: Diversification
 In this stage, we will create 7 more castles for each AI, that have the same buildorder and the same amount of buildsteps.
